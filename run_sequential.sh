@@ -17,7 +17,7 @@ if [ ! -d "$input_folder" ]; then
 fi
 
 # Compile the knap_helper.cpp file
-g++ -std=c++11 knapsack_sequential.cpp -o my_program_sequential -pthread
+g++ -std=c++11 knapsack_sequential.cpp -o my_program_sequential
 
 # Function to run knap_helper for a given input file and thread count
 run_knap_helper() {

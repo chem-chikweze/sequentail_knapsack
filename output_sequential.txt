@@ -1,0 +1,23 @@
+0.txt 
+The maximum value is 1.
+Duration: 0.173041 miliseconds.
+1.txt 
+The maximum value is 1426.
+Duration: 1.59062 miliseconds.
+2.txt 
+The maximum value is 304865.
+Duration: 23218.4 miliseconds.
+3.txt 
+The maximum value is 143562.
+Duration: 11172.9 miliseconds.
+4.txt 
+The maximum value is 751184.
+Duration: 72703.5 miliseconds.
+5.txt 
+0.txt 
+The maximum value is 1.
+Duration: 0.212166 miliseconds.
+1.txt 
+The maximum value is 1426.
+Duration: 1.61563 miliseconds.
+2.txt 
