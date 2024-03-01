@@ -22,7 +22,7 @@ g++ -std=c++11 knapsack_sequential.cpp -o my_program_sequential -pthread
 # Function to run knap_helper for a given input file and thread count
 run_knap_helper() {
   input_file=$1
-  for i in {1..10}; do
+  for i in {3}; do
     ./my_program_sequential "$input_file" >> output_sequential.txt
   done
 }
